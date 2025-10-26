@@ -1,0 +1,11 @@
+name: wt_model
+channels:
+  - defaults
+dependencies:
+  - python=3.11.13
+  - pandas
+  - jupyterlab
+  - scikit-learn
+  - numpy
+  - matplotlib
+prefix: D:\Users\mpiel\miniconda3\envs\wt_model
